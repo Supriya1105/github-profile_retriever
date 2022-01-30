@@ -1,2 +1,18 @@
 # github_profile_retriever
-Using github api the basic details and information of any github user is retrieved just by entering the username
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="xyz.css">
+  <title>Github Profiles</title>
+</head>
+<body>
+  <form id="form">
+    <input type="text" id="search" placeholder="Search a Github User" />
+  </form>
+  <main id="main"></main>
+  <script src="xyz.js"></script>
+</body>
+</html>
